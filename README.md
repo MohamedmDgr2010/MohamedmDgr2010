@@ -1,11 +1,11 @@
 <div align="center">
 
 # محمد المعز
-<!-- <img src="images/me.png" width="500"> -->
+<img src="images/me-.png" width="500" border-ridus="250">
 
 ## مرحباً 👋
 
-**أنا محمد المعز بابكر. طالب في الصف الأول ثانوي , تعلمت لغة سي++ و بايثون و جافا سكريبت.**
+**أنا محمد المعز بابكر. طالب في الصف الأول ثانوي , استخدم لغة سي++ و بايثون و جافا سكريبت.**
 
 <br>
 
@@ -36,11 +36,11 @@
       <b>Qt</b>
     </td>
     <td align="center" width="96">
-      <img src="images/nodeIcon.png" width="50"><br>
+      <img src="images/node.js_Icon.jpeg" width="50"><br>
       <b>Node.js</b>
     </td>
     <td align="center" width="96">
-      <img src="images/expressIcon.png" width="50"><br>
+      <img src="images/express.js_Icon.png" width="50"><br>
       <b>Express</b>
     </td>
     <td align="center" width="96">
@@ -79,7 +79,7 @@
 
 يمكنك التواصل معي عبر:
 - GitHub: [MohamedmDgr2010](https://github.com/MohamedmDgr2010)
-
+- Email [almzm0826@gmail.com](mailto://almzm0826@gmail.com)
 </div>
 
 ---
